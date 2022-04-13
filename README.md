@@ -1,2 +1,1 @@
-# learn_easy
-To  make learning easy
+NNDl-lab experiments
